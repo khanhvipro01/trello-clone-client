@@ -1,9 +1,22 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import AccessAlarmIcon from '@mui/icons-material/AccessAlarm';
+import ThreeDRotation from '@mui/icons-material/ThreeDRotation';
+
+// import './App.css'
+import Button from '@mui/material/Button'
 
 function App() {
+
+  return (
+    <>
+      ngockhanhdev
+      <Button variant="contained">Hello world</Button>
+      <Button variant="text">Text</Button>
+      <Button variant="contained">Contained</Button>
+      <Button variant="outlined">Outlined</Button>
+      <br />
+      <AccessAlarmIcon />
+
+      <ThreeDRotation />
   const [count, setCount] = useState(0)
   const a = 4;
 
