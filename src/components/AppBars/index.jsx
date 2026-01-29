@@ -1,5 +1,6 @@
 import Box from '@mui/material/Box'
-import ModeSelect from '../../components/ModeSelect'
+import ModeSelect from '~/components/ModeSelect'
+import AppsIcon from '@mui/icons-material/Apps';
 
 function AppBar() {
   return (
@@ -8,9 +9,11 @@ function AppBar() {
         width: '100%',
         height: (theme) => theme.trello.appBarHeight,
         display: 'flex',
-        alignItems: 'center'
+        alignItems: 'center',
+        justifyContent: 'space-between'
       }}>
-        <ModeSelect />
+        <Box><AppsIcon /></Box>
+        <Box><ModeSelect /></Box>
       </Box>
     </div>
   )
